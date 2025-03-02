@@ -1,7 +1,7 @@
 # -Install-Kali-VM-Alfa-WIFI-Adapter-Fix-Fetch-and-Linux-Header-Error
 ## Prerequisites
-- Install **VirtualBox**
-- Install **Kali Linux 64-bit** for VirtualBox
+- Install **VirtualBox** ([Download here](https://www.virtualbox.org/))
+- Install **Kali Linux 64-bit** for VirtualBox ([Download here](https://www.kali.org/get-kali/#kali-virtual-machines))
 
 ### Default Credentials
 - **Username:** kali
