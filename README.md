@@ -1,4 +1,4 @@
-# -Install-Kali-VM-Alfa-WIFI-Adapter-Fix-Fetch-and-Linux-Header-Error
+# Install Kali VM Alfa WIFI Adapter Fix-Fetch and Linux Header-Error
 ## Prerequisites
 - Install **VirtualBox** ([Download here](https://www.virtualbox.org/))
 - Install **Kali Linux 64-bit** for VirtualBox ([Download here](https://www.kali.org/get-kali/#kali-virtual-machines))
